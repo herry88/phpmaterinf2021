@@ -2,9 +2,9 @@
 //while looping pengulangan PHP
 //fungsi mengulang data yang datanya
 //tidak kita ketahui
-$number = 0;
-while($number <= 10  ){
-    echo "Kalimat yang ke-". $number ."<br>";
-    $number+=2;
+$var_sendiri = 0;
+while($var_sendiri <= 10  ){
+    echo "Kalimat yang ke-". $var_sendiri ."<br>";
+    $var_sendiri+=2;
 }
 ?>
